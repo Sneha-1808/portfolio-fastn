@@ -6,6 +6,7 @@ favicon: /-/sneha-1808.github.io/portfolio-fastn/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: sneha-1808.github.io/portfolio-fastn/FASTN/my-ds
